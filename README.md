@@ -50,12 +50,12 @@ $.fn.siblings = function(selector){
 ### About
 
 This is a fork Thomas Fuchs' [Pragmatic.js][fork]. While most of his rules make sense, 
-the ones about ommitting semicons and brances are a [bad idea][bad] in many people's opinoipns
-(including my own and the guy whocreated JavaScript).
+the ones about ommitting semicolons and braces are a [bad idea][bad] in many people's opinions
+(including my own and the guy who created JavaScript).
 
 ### Contribute
 
-I welcome contributions—this guide is very basic at the moment and should probably have some more
+I welcome contributions — this guide is very basic at the moment and should probably have some more
 guidelines for specific situations and how to get started. You know where the fork & pull request
 buttons are.
 
