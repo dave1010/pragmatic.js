@@ -63,6 +63,6 @@ buttons are.
 
 Pragmatic.js is licensed under the terms of the MIT License.
 
-  [form]: https://github.com/madrobby/pragmatic.js
+  [fork]: https://github.com/madrobby/pragmatic.js
   [zepto]: http://zeptojs.com/
   [bad]: http://brendaneich.com/2012/04/the-infernal-semicolon/
